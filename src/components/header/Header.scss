@@ -1,0 +1,11 @@
+.header{
+    padding: 20px;
+    background: pink;
+    display: flex;
+    gap: 40px;
+    ul{
+        display: flex;
+        gap: 40px;
+        list-style: none;
+    }
+}
